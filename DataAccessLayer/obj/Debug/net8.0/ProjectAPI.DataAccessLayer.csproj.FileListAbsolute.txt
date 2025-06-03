@@ -1,0 +1,28 @@
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\DataAccessLayer\bin\Debug\net8.0\ProjectAPI.DataAccessLayer.deps.json
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\DataAccessLayer\bin\Debug\net8.0\ProjectAPI.DataAccessLayer.dll
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\DataAccessLayer\bin\Debug\net8.0\ProjectAPI.DataAccessLayer.pdb
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.AssemblyInfo.cs
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.dll
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\DataAccessLayer\obj\Debug\net8.0\refint\ProjectAPI.DataAccessLayer.dll
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.pdb
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\DataAccessLayer\obj\Debug\net8.0\ref\ProjectAPI.DataAccessLayer.dll
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\DataAccessLayer\bin\Debug\net8.0\ProjectAPI.DataAccessLayer.runtimeconfig.json
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.genruntimeconfig.cache
+F:\OmarAli\Projects\github\StoreAPI\DataAccessLayer\bin\Debug\net8.0\ProjectAPI.DataAccessLayer.deps.json
+F:\OmarAli\Projects\github\StoreAPI\DataAccessLayer\bin\Debug\net8.0\ProjectAPI.DataAccessLayer.runtimeconfig.json
+F:\OmarAli\Projects\github\StoreAPI\DataAccessLayer\bin\Debug\net8.0\ProjectAPI.DataAccessLayer.dll
+F:\OmarAli\Projects\github\StoreAPI\DataAccessLayer\bin\Debug\net8.0\ProjectAPI.DataAccessLayer.pdb
+F:\OmarAli\Projects\github\StoreAPI\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.csproj.AssemblyReference.cache
+F:\OmarAli\Projects\github\StoreAPI\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\OmarAli\Projects\github\StoreAPI\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.AssemblyInfoInputs.cache
+F:\OmarAli\Projects\github\StoreAPI\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.AssemblyInfo.cs
+F:\OmarAli\Projects\github\StoreAPI\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\OmarAli\Projects\github\StoreAPI\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.dll
+F:\OmarAli\Projects\github\StoreAPI\DataAccessLayer\obj\Debug\net8.0\refint\ProjectAPI.DataAccessLayer.dll
+F:\OmarAli\Projects\github\StoreAPI\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.pdb
+F:\OmarAli\Projects\github\StoreAPI\DataAccessLayer\obj\Debug\net8.0\ProjectAPI.DataAccessLayer.genruntimeconfig.cache
+F:\OmarAli\Projects\github\StoreAPI\DataAccessLayer\obj\Debug\net8.0\ref\ProjectAPI.DataAccessLayer.dll

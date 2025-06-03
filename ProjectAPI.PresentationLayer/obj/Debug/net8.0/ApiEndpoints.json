@@ -1,0 +1,406 @@
+[
+  {
+    "ContainingType": "ProjectAPI.PresentationLayer.Controllers.AuthController.AuthonticationController",
+    "Method": "Login",
+    "RelativePath": "api/Authontication/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "ProjectAPI.BusinessLogicLayer.DTOs.AuthDTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjectAPI.BusinessLogicLayer.DTOs.AuthDTOs.UserResultDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjectAPI.PresentationLayer.Controllers.AuthController.AuthonticationController",
+    "Method": "Register",
+    "RelativePath": "api/Authontication/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDTO",
+        "Type": "ProjectAPI.BusinessLogicLayer.DTOs.AuthDTOs.RegisterDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjectAPI.BusinessLogicLayer.DTOs.AuthDTOs.UserResultDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjectAPI.PresentationLayer.Controllers.BasketController",
+    "Method": "DeleteBasket",
+    "RelativePath": "api/Basket/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectAPI.PresentationLayer.Controllers.BasketController",
+    "Method": "UpdateBasket",
+    "RelativePath": "api/Basket/AddOrUpdateBasket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "basketDTO",
+        "Type": "ProjectAPI.BusinessLogicLayer.DTOs.BasketDTOs.BasketDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjectAPI.BusinessLogicLayer.DTOs.BasketDTOs.BasketDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjectAPI.PresentationLayer.Controllers.BasketController",
+    "Method": "GetBasket",
+    "RelativePath": "api/Basket/GetBasket/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjectAPI.BusinessLogicLayer.DTOs.BasketDTOs.BasketDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjectAPI.Controllers.OrderController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/Order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderRequestDTO",
+        "Type": "ProjectAPI.BusinessLogicLayer.DTOs.OrderDTOs.OrderRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjectAPI.BusinessLogicLayer.DTOs.OrderDTOs.OrderDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjectAPI.Controllers.OrderController",
+    "Method": "GetOrderById",
+    "RelativePath": "api/Order/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjectAPI.BusinessLogicLayer.DTOs.OrderDTOs.OrderDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjectAPI.Controllers.OrderController",
+    "Method": "DeleteOrder",
+    "RelativePath": "api/Order/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectAPI.Controllers.OrderController",
+    "Method": "GetAllOrders",
+    "RelativePath": "api/Order/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProjectAPI.BusinessLogicLayer.DTOs.OrderDTOs.OrderDTO, ProjectAPI.BusinessLogicLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjectAPI.Controllers.OrderController",
+    "Method": "GetOrdersByEmail",
+    "RelativePath": "api/Order/email/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProjectAPI.BusinessLogicLayer.DTOs.OrderDTOs.OrderDTO, ProjectAPI.BusinessLogicLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjectAPI.PresentationLayer.Controllers.ProductController.ProductController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/Product/CreateProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Price",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "StockQuantity",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "formFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectAPI.PresentationLayer.Controllers.ProductController.ProductController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/Product/DeleteProduct/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectAPI.PresentationLayer.Controllers.ProductController.ProductController",
+    "Method": "GetAllProducts",
+    "RelativePath": "api/Product/GetAllProduct",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectAPI.PresentationLayer.Controllers.ProductController.ProductController",
+    "Method": "GetProductById",
+    "RelativePath": "api/Product/GetProductById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectAPI.PresentationLayer.Controllers.ProductController.ProductController",
+    "Method": "UpdateProduct",
+    "RelativePath": "api/Product/UpdateProduct/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Price",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "StockQuantity",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "formFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectAPI.PresentationLayer.Controllers.TestController.TestController",
+    "Method": "AdminOnlyEndpoint",
+    "RelativePath": "api/Test/admin-only",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectAPI.PresentationLayer.Controllers.TestController.TestController",
+    "Method": "ProtectedEndpoint",
+    "RelativePath": "api/Test/protected",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectAPI.PresentationLayer.Controllers.TestController.TestController",
+    "Method": "PublichEndpoint",
+    "RelativePath": "api/Test/publich",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectAPI.PresentationLayer.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProjectAPI.PresentationLayer.WeatherForecast, ProjectAPI.PresentationLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

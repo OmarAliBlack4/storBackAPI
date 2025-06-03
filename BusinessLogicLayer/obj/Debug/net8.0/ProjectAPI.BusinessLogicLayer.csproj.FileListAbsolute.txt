@@ -1,0 +1,30 @@
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\bin\Debug\net8.0\ProjectAPI.BusinessLogicLayer.deps.json
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\bin\Debug\net8.0\ProjectAPI.BusinessLogicLayer.dll
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\bin\Debug\net8.0\ProjectAPI.BusinessLogicLayer.pdb
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\bin\Debug\net8.0\ProjectAPI.DataAccessLayer.dll
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\bin\Debug\net8.0\ProjectAPI.DataAccessLayer.pdb
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\obj\Debug\net8.0\ProjectAPI.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\obj\Debug\net8.0\ProjectAPI.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\obj\Debug\net8.0\ProjectAPI.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\obj\Debug\net8.0\ProjectAPI.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\obj\Debug\net8.0\ProjectAPI.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\obj\Debug\net8.0\ProjectA.8A52594C.Up2Date
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\obj\Debug\net8.0\ProjectAPI.BusinessLogicLayer.dll
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\obj\Debug\net8.0\refint\ProjectAPI.BusinessLogicLayer.dll
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\obj\Debug\net8.0\ProjectAPI.BusinessLogicLayer.pdb
+C:\Users\MK STORES\source\repos\ProjectAPI.PresentationLayer\BusinessLogicLayer\obj\Debug\net8.0\ref\ProjectAPI.BusinessLogicLayer.dll
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\bin\Debug\net8.0\ProjectAPI.BusinessLogicLayer.deps.json
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\bin\Debug\net8.0\ProjectAPI.BusinessLogicLayer.dll
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\bin\Debug\net8.0\ProjectAPI.BusinessLogicLayer.pdb
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\bin\Debug\net8.0\ProjectAPI.DataAccessLayer.dll
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\bin\Debug\net8.0\ProjectAPI.DataAccessLayer.pdb
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\obj\Debug\net8.0\ProjectAPI.BusinessLogicLayer.csproj.AssemblyReference.cache
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\obj\Debug\net8.0\ProjectAPI.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\obj\Debug\net8.0\ProjectAPI.BusinessLogicLayer.AssemblyInfoInputs.cache
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\obj\Debug\net8.0\ProjectAPI.BusinessLogicLayer.AssemblyInfo.cs
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\obj\Debug\net8.0\ProjectAPI.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\obj\Debug\net8.0\ProjectA.8A52594C.Up2Date
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\obj\Debug\net8.0\ProjectAPI.BusinessLogicLayer.dll
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\obj\Debug\net8.0\refint\ProjectAPI.BusinessLogicLayer.dll
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\obj\Debug\net8.0\ProjectAPI.BusinessLogicLayer.pdb
+F:\OmarAli\Projects\github\StoreAPI\BusinessLogicLayer\obj\Debug\net8.0\ref\ProjectAPI.BusinessLogicLayer.dll
